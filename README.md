@@ -1,16 +1,17 @@
-## Hi there 👋
+#### Welcome to my Github Repository
+I am a **Computer Science** student at **Florida Atlantic University**.
 
-<!--
-**aarohasapkota/aarohasapkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: SwiftUI | Linux | Bash | Python | HTML | JS | CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on getting my **Security+** and **Network+** Certifications 
+- 🌱 I’m currently learning **Swift UI** | **Bash Scripting** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aarohasapkota)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aaroha-sapkota-6813381b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aaroha_sapkota)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarohasapkota)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/aarohasapkota)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aarohasapkota)  
+
