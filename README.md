@@ -8,7 +8,9 @@
 #### - 🌱 I’m currently learning **Swift UI** | **Bash Scripting** 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aarohasapkota)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aaroha-sapkota-6813381b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aaroha_sapkota)  
+
+
+[<img src='https://github.com/user-attachments/assets/ac0049dc-0ebe-4eec-936a-9cd99142f4cc' alt='github' height='40'>](https://github.com/aarohasapkota)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aaroha-sapkota-6813381b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aaroha_sapkota)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarohasapkota)](https://github.com/anuraghazra/github-readme-stats)
 
