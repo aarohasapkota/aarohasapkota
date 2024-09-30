@@ -4,6 +4,7 @@
 
 ### Skills : SwiftUI | Linux | Bash | Python | HTML | JS | CSS
 
+#### - 🦀 Getting RUSTY with Rust
 #### - 🔭 I’m currently working on getting my **Security+** and **Network+** Certifications 
 #### - 🌱 I’m currently learning **Swift UI** | **Bash Scripting** 
 
