@@ -1,21 +1,40 @@
-# Welcome to my Github Repository
+# Hey, I'm Aaroha 👋
 
-### I am a **Computer Science** student at **Florida Atlantic University**.
+**Founding Engineer @ [Nyquest.ai](https://nyquest.ai/) · Co-Founder @ [OrbNex](https://orb-nex.us/) · Builder**
 
-### Skills : SwiftUI | Linux | Bash | Python | HTML | JS | CSS
+---
 
-#### - 🦀 Getting RUSTY with Rust
-#### - 🔭 I’m currently working on getting my **Security+** and **Network+** Certifications 
-#### - 🌱 I’m currently learning **Swift UI** | **Bash Scripting** 
+### What I'm working on
 
+🧠 **[Nyquest.ai](https://nyquest.ai/)** — Helping startups in incubators and small businesses across South Florida integrate AI that's actually useful. Not AI for the sake of AI — purposeful automation powered by our core engine, Nyquest.
 
+🤖 **[OrbNex](https://orb-nex.us/)** — Co-building a robotics company focused on ML and tactile perception. Teaching robots to *feel*.
 
+---
 
-[<img src='https://github.com/user-attachments/assets/ac0049dc-0ebe-4eec-936a-9cd99142f4cc' alt='github' height='40'>](https://github.com/aarohasapkota)  [<img src='https://github.com/user-attachments/assets/c8fc4756-7291-437f-a633-c77e7f46af93' alt='linkedin' height='40'>](https://www.linkedin.com/in/aaroha-sapkota-6813381b9/)  [<img src='https://github.com/user-attachments/assets/7581d422-8215-40f9-bc26-452eaa079f62' alt='twitter' height='40'>](https://twitter.com/aaroha_sapkota)  
+### What I've shipped
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarohasapkota)](https://github.com/anuraghazra/github-readme-stats)
+- 🎓 Built an in-class AI assistant as my final year project
+- 📈 Integrated AI agents into a **$2M/year business** — meaningfully improving their productivity
+- 🏢 Client-side AI integrations at my day job: ticketing systems, kiosks, and internal tooling
 
+---
 
+### Skills
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aarohasapkota)  
+`Python` · `JavaScript` · `SwiftUI` · `Bash` · `Linux` · `HTML/CSS` · `AI/ML Integration` · `Agents & Automation`
 
+🦀 Getting rusty with **Rust**
+
+---
+
+### Find me
+
+[<img src='https://github.com/user-attachments/assets/ac0049dc-0ebe-4eec-936a-9cd99142f4cc' alt='github' height='36'>](https://github.com/aarohasapkota) &nbsp;
+[<img src='https://github.com/user-attachments/assets/c8fc4756-7291-437f-a633-c77e7f46af93' alt='linkedin' height='36'>](https://www.linkedin.com/in/aaroha-sapkota-6813381b9/) &nbsp;
+[<img src='https://github.com/user-attachments/assets/7581d422-8215-40f9-bc26-452eaa079f62' alt='twitter' height='36'>](https://twitter.com/aaroha_sapkota)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarohasapkota&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aarohasapkota&theme=dark)
